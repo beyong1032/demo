@@ -1,8 +1,5 @@
 package com.example.demo.mylock;
 
-import javafx.scene.effect.Light;
-
-import javax.sound.midi.Soundbank;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
